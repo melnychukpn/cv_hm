@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.h5
+*.ckpt
+*.pth
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data
+*.csv
+*.tsv
+*.dat
+*.npz
+*.npy
+*.zip
+*.tar.gz
+*.tar
+*.gz
+*.hdf5
+*.xlsx
+*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+venv/
+
+# Results
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.svg
+*.mp4
+*.avi
+*.mov
+*.webm
+*data
+# Submissions
+submissions/
+
+# Other
+*.bak
+*.tmp
